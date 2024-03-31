@@ -21,3 +21,4 @@ public class WeshopifyConfig extends WebMvcConfigurerAdapter{
 	}
 	
 }
+
