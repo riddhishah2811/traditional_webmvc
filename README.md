@@ -22,7 +22,7 @@ Step-5: We have written the AppConfigurations and enabled: \
 a. webmvc configurations \
 b. Component scanning \
 c. Created th InternalResourceViewResolver and configured it as Spring Bean \
-Step-6: we have taken an external tomcat server support and deployed the application \
+Step-6: we have taken an external tomcat server support and deployed the application 
 
 
 
