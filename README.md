@@ -25,3 +25,4 @@ c. Created th InternalResourceViewResolver and configured it as Spring Bean \
 Step-6: we have taken an external tomcat server support and deployed the application \
 
 
+
